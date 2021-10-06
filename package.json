@@ -1,0 +1,26 @@
+{
+  "name": "@asu-ke-web-services/stylelint-config",
+  "version": "0.1.0",
+  "description": "A repository for CSS and Sass linting rules being used in ASU KE WordPress projects.",
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "repository": "ASU-KE/stylelint-config",
+  "main": "index.js",
+  "author": "ASU KE Web Services",
+  "license": "GPL-2.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "stylelint": "^13.13.1"
+  },
+  "dependencies": {
+    "stylelint-order": "4.1.0",
+    "@wordpress/stylelint-config": "^19.0.5"
+  },
+  "devDependencies": {
+    "stylelint": "^13.13.1"
+  }
+}
