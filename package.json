@@ -6,7 +6,7 @@
     "stylelint",
     "stylelint-config"
   ],
-  "repository": "ASU-KE/stylelint-config",
+  "repository": "git://github.com/asu-ke-web-services/stylelint-config.git",
   "main": "index.js",
   "author": "ASU KE Web Services",
   "license": "GPL-2.0",
