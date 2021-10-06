@@ -11,7 +11,7 @@
   "author": "ASU KE Web Services",
   "license": "GPL-2.0",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   },
   "peerDependencies": {
     "stylelint": "^13.13.1"
